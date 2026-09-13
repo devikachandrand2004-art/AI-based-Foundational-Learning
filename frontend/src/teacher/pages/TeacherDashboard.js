@@ -117,7 +117,7 @@ setHelpCount(pendingGroupedChats.length);
     localStorage.removeItem("teacher_token");
     localStorage.removeItem("grammar-pal-storage");
     window.location.href =
-      "https://ai-based-foundational-learning-user.vercel.app/";
+      "https://ai-based-foundational-learning26.vercel.app/";
   };
 
   const averageCompletion =
