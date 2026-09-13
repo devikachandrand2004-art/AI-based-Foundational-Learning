@@ -3461,7 +3461,7 @@ const [message, setMessage] = useState('');
     const role = result.user.role;
 
     if (role === "teacher") {
-      window.location.href = `https://ai-based-foundational-learning-hu6m.vercel.app/dashboard?token=${result.token}`;
+      window.location.href = `https://ai-based-foundational-learning-virid.vercel.app/dashboard?token=${result.token}`;
     } else {
       console.log("Student logged in");
     }
